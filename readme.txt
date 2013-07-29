@@ -7,4 +7,11 @@ Logic -
 			Based upon this piece position we append either trillion, million, thousands.
 	3) There is a hashMap for retrieving one digits numbers, and (10,20,30,40,50,60,70,80,90).
 	
-Test cases - implemented using Junit4  
+Classes -
+	MainClass : main
+	NumberConversion :Recursive conversion of integer number to string. (above logic)
+	NumberConversionTest : Junit4 test cases
+
+Other files -
+	build.xml 
+	 
